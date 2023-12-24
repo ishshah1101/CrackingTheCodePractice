@@ -8,7 +8,7 @@ public class Swap {
 
     private static void swapNumbers(int a, int b) {
 
-        System.out.print("a::--->" + a + "b::--->" + b);
+//        System.out.print("a::--->" + a + "b::--->" + b);
     }
 
 }
