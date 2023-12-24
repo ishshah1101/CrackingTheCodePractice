@@ -7,8 +7,8 @@ public class Swap {
     }
 
     private static void swapNumbers(int a, int b) {
-        // TODO: LOGIC
-        System.out.println("a::--->" + a + "b::--->" + b);
+
+        System.out.print("a::--->" + a + "b::--->" + b);
     }
 
 }
